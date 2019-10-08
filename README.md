@@ -1,5 +1,17 @@
 # Hola Mundo
 
+## Hola mundo 2
+
+### Hola mundo 3
+
+* Viñeta
+
+  * Viñeta sangrada
+
+1. Lista numerada
+
+`codigo`
+
 Probemos que funciona.
 
 * Acepta la invitación que habrás recibido por correo (revisa tu spam). Al hacer clic sobre la invitación, se debe generar un repo del que serás propietario/a, con un nombre tal que `unidad-0-asignacion0-hola-mundo-tuusuariodegithub`. Si no recibiste la invitación, avisa al profesor.
@@ -10,7 +22,7 @@ Probemos que funciona.
 
 * En modo edición, escribe tus nombres y apellidos, sustituyendo los puntos suspensivos que verás a continuación por tu respuesta.
 
-  * Tu respuesta aquí: ...
+  * Tu respuesta aquí: Estudiante Ficticio
   
 * Al finalizar, ve al fondo y presiona `Commit changes`.
 
